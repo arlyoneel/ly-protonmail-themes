@@ -1,0 +1,15 @@
+#pm_settings .pm_tabs {
+  background: #000;
+}
+
+header#pm_header-desktop {
+  background: #000;
+}
+
+body section.sidebar {
+  background: #000;
+}
+
+header#pm_header-desktop a.logo {
+  background-color: #000;
+}
